@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.DS_Store
+*.tsbuildinfo
+
+.venv/
+__pycache__/
+*.py[cod]
+.env
+backend/fluent.db
+backend/data/
+.env.local
+.vercel
